@@ -1,7 +1,7 @@
 *.iml
 .idea
 .gradle
-/gradle/
+/gradle
 /local.properties
 /.idea/caches
 /.idea/libraries
@@ -16,6 +16,7 @@
 .cxx
 local.properties
 /gradlew
+/.gitignore
 /build.gradle
 /gradle.properties
 /gradlew.bat
